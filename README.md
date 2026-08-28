@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **samridhikanwar823@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** **[EmotionSense-AI]**(https://github.com/Samridhi-Kanwar/EmotionSense-AI)
+- 🔭 **I’m currently working on:** [**EmotionSense-AI**](https://github.com/Samridhi-Kanwar/EmotionSense-AI)
 - 🌱 **I’m currently learning:** Node.js
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** **samridhikanwar823@gmail.com**
