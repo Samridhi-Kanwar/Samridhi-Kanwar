@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **samridhikanwar823@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** [EmotionSense-AI](https://github.com/Samridhi-Kanwar/EmotionSense-AI)
+- 🔭 **I’m currently working on:** **[EmotionSense-AI]**(https://github.com/Samridhi-Kanwar/EmotionSense-AI)
 - 🌱 **I’m currently learning:** Node.js
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** **samridhikanwar823@gmail.com**
@@ -23,7 +23,7 @@ Email Me 👉 ✉️ **samridhikanwar823@gmail.com** For Collaboration/Project o
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
